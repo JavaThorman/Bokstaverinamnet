@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Bokstaverinamnetv2.iml" filepath="$PROJECT_DIR$/.idea/Bokstaverinamnetv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bokstaverinamnet.iml" filepath="$PROJECT_DIR$/Bokstaverinamnet.iml" />
     </modules>
   </component>
 </project>
